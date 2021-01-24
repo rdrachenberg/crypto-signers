@@ -1,0 +1,17 @@
+{
+  "name": "crypto_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crypto_2.js",
+  "scripts": {
+    "start": "node crypto_2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^5.2.0",
+    "body-parser": "^1.19.0",
+    "eth-crypto": "^1.8.0",
+    "express": "^4.17.1"
+  }
+}

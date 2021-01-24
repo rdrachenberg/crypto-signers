@@ -1,0 +1,26 @@
+# 01. Ethereum Signature Creator
+{
+  "signature": "0xacd0acd4eabd1bec05393b33b4018fa38b69eba8f16ac3d60eec9f4d2abc127e3c92939e680b91b094242af80fce6f217a34197a69d35edaf616cb0c3da4265b1c",
+  "msg": "exercise-cryptography"
+}
+
+# 02. Eth Signature to Address
+{
+  "address": "0xa44f70834a711F0DF388ab016465f2eEb255dEd0"
+}
+
+# 03.1. Eth Signature Verifier (Case Valid)
+{
+  "valid": true
+}
+
+# 03.2. Eth Signature Verifier (Case Invalid)
+{
+  "valid": false
+}
+
+# 04. BTC Private Key to Address
+{
+  "address": "1GAehh7TsJAHuUAeKZcXf5CnwuGuGgyX2S"
+}
+
